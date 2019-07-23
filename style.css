@@ -1,0 +1,43 @@
+body {
+    background: rgb(53,53,53)
+}
+header {
+    font-family: 'Tangerine', cursive;
+    color: whitesmoke;
+    font-size: 72px;
+    text-align: center;
+}
+h3 {
+    vertical-align: middle;
+    font-family: 'Unica One', cursive;
+    color: whitesmoke;
+    font-size: 26px;
+    text-align: center;
+}
+.top {
+    text-align: center;
+    
+}
+.watch_container {
+    border-radius: 13px;
+    border-color: #FDEFA6;
+    border-style: solid;
+    border-width: 2px;
+    float: left;
+    overflow: auto;
+}
+.text{
+    overflow: auto;
+    font-family: 'Unica One', cursive;
+    color: whitesmoke;
+}
+.watch_description {
+    overflow: auto;
+    font-family: 'Dosis', sans-serif;
+}
+footer {
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+    color: whitesmoke;
+    font-size: 30px;
+}
